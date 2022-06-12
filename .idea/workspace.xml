@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4fdceed-9f41-4e77-838b-3771266d8508" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojodu/book/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojodu/book/springboot/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojodu/book/springboot/web/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojodu/book/springboot/web/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jojodu/book/springboot/web/HelloControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/jojodu/book/springboot/web/HelloControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Gradle#20Test#20Executor#201.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Gradle#20Test#20Executor#201.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Gradle#20Test#20Executor#201.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Gradle#20Test#20Executor#201.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jojodu/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojodu/book/springboot/Application.java" afterDir="false" />
-    </list>
+    <list default="true" id="d4fdceed-9f41-4e77-838b-3771266d8508" name="Changes" comment="2022.06.12 test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,8 +109,16 @@
       <option name="presentableId" value="Default" />
       <updated>1654673504015</updated>
       <workItem from="1654673509286" duration="5564000" />
-      <workItem from="1655037680312" duration="400000" />
+      <workItem from="1655037680312" duration="713000" />
     </task>
+    <task id="LOCAL-00001" summary="2022.06.12 test">
+      <created>1655038158002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655038158002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022.06.12 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.06.12 test" />
   </component>
 </project>
